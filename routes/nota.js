@@ -33,7 +33,7 @@ router.get('/nota/:id', async(req, res) => {
 });
 
 // Get con todos los documentos
-router.get('/nota', async(req, res) => {
+router.get('/notas', async(req, res) => {
     try {
       const notaDb = await Nota.find();
       res.json(notaDb);
