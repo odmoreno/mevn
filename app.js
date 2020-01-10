@@ -8,7 +8,9 @@ const app = express();
 // Conexión base de datos
 const mongoose = require('mongoose');
 
-const uri = 'mongodb://localhost:27017/myapp';
+//const uri = 'mongodb://localhost:27017/myapp';
+const uri = 'mongodb+srv://odmoreno:RqEFw5egYgkX0Dq9@cluster0-q4hgx.mongodb.net/test?retryWrites=true&w=majority';
+
 const options = {useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true};
 
 // Or using promises

@@ -1,3 +1,6 @@
 tutorial:  https://bluuweb.github.io/mevn/03-vue/#intalacion-vue-ui
 
 vue ui : npm install -g @vue/cli-service-global
+
+RqEFw5egYgkX0Dq9
+mongodb+srv://odmoreno:RqEFw5egYgkX0Dq9@cluster0-q4hgx.mongodb.net/test?retryWrites=true&w=majority
